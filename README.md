@@ -1,2 +1,2 @@
 # vsl2020demo
-VS Live 2020 demo repo.
+Hands-on labs at VSLIVE 2020 Las Vegas.
