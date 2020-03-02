@@ -34,7 +34,7 @@ jobs:
 
     # Deploy Web App
     - name: 'Azure webapp deploy'
-      uses: azure/webapps-deploy@1
+      uses: azure/webapps-deploy@v1
       with:
         app-name: ${{ env.AZURE_WEBAPP_NAME }}
         package: './output'
